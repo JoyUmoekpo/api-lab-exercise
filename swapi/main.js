@@ -1,3 +1,5 @@
+let baseURL = 'https://swapi.dev/api/';
+
 let btn = document.querySelector('button');
 
 const btnFunction = () => {
