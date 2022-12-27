@@ -6,4 +6,4 @@ const btnFunction = () => {
     console.log('Button clicked');
 }
 
-btn.addEventListener('click', btnFunction);
+btn.addEventListener('click', btnFunction); 
